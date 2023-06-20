@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>amazon clone</title>
+    <!--fav icon-->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <!--icon css-->
+    <link rel="stylesheet" href="css/fontello.css">
+    <!--google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap">
+    <!--style css-->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body class="font-open-sans">
+    <header class="bg-amazon-black text-white pt-3 pb-4 capitalize">
+      <div class="container flex items-center gap-3 px-0"><a href="index.html"><img class="logo pl-2.5 w-28" src="images/logo.png" alt="logo"></a>
+        <div class="location flex items-end"><i class="icon-location-outline"></i>
+          <div class="flex flex-col leading-tight"><span class="text-amazon-grey-100 text-2xs">Deliever to</span><span class="capitalize font-bold">egypt</span></div>
+        </div>
+        <div class="search-container flex rounded-md overflow-hidden grow">
+          <div class="select-container relative">
+            <div class="select-face px-2.5 bg-off-white text-amazon-grey-200 border-r border-amazon-grey-200 py-2 flex items-center"><span class="value capitalize mr-1">all</span><i class="icon-down-dir text-icon"></i></div>
+            <select class="text-black border opacity-0 absolute top-0 z-0" id="category" name="category">
+              <li>item</li>
+              <li>item</li>
+              <li>item</li>
+            </select>
+          </div>
+          <input class="relative z-10 grow px-2" type="search" name="category" placeholder="search amazon">
+          <div class="search-icon relative z-10 bg-orange-300 grid place-items-center text-black px-2"><i class="icon-search"></i></div>
+        </div>
+        <div class="language-selector flex items-center"><img class="w-5 block mr-1" src="images/lang-flag.png" alt="language-flag"><span class="lang-initials leading-none">EN</span><i class="icon-down-dir text-icon text-amazon-grey-100 self-end mt-1.5"></i></div>
+        <div class="sign-in-lists leading-none self-start"><span class="text-2xs">Hello, sign in</span><br><span class="font-bold text-xs">accounts &amp; lists</span><i class="icon-down-dir text-icon text-amazon-grey-100"></i></div>
+        <div class="returns-orders leading-none self-start"><span class="text-2xs">returns</span><br><span class="text-xs font-bold">&amp; orders</span></div>
+        <div class="cart-container">
+          <div class="cart-w-num relative mr-3"><span class="left-1/2 -translate-x-1/2 -translate-y-1/2 absolute top-0 text-orange-400 font-bold">0</span><i class="icon-opencart"></i></div>
+          <cart></cart>
+        </div>
+      </div>
+    </header>
+    <script src="js/mainScript.js"></script>
+  </body>
+</html>
