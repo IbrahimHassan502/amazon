@@ -145,7 +145,7 @@ html(lang="en")
         div.hero-carousel.owl-carousel.relative
             - const heroLinks = data.find((el) => el.name === 'hero').links
             each link in heroLinks
-                .item
+                .item.w-screen
                     a.block.h-full(href=`${link.href}.html`)
                         img.object-fill.h-full(class='hero-img', src=`${link.bgImgPath}`, alt="")
 

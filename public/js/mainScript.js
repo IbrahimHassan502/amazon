@@ -138,7 +138,7 @@ mainMenuButton.addEventListener("click", () => {
 $(document).ready(function(){
   $(".hero-carousel").owlCarousel({
     loop: true,
-  margin: 0,
+  margin: 20,
   nav: true,
   items: 1,
   center: false,
