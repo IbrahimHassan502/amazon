@@ -1,0 +1,270 @@
+[
+  {
+    "name": "asideLists",
+    "array": [
+      {
+        "heading": "digital content & devices",
+        "links": [
+          {
+            "name": "amazon music",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "stream music",
+                "links": [
+                  "amazon music unlimited",
+                  "free streaming music",
+                  "podcasts",
+                  "open web player",
+                  "download the app"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kindle e-readers & books",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "kindle e-readers",
+                "links": [
+                  "kindle kids",
+                  "kindle",
+                  "kindle paper white",
+                  "kindle oasis",
+                  "introducing kindle scribe",
+                  "accessories",
+                  "see all kindle e-readers"
+                ]
+              },
+              {
+                "heading": "kindle store",
+                "links": [
+                  "kindle books",
+                  "kindle unlimited",
+                  "prime reading",
+                  "kindle vella"
+                ]
+              },
+              {
+                "heading": "apps & resources",
+                "links": [
+                  "free kindle reading apps",
+                  "kindle for web",
+                  "manage your content and devices"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "amazon appstore",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "amazon appstore",
+                "links": [
+                  "all apps and games",
+                  "games",
+                  "amazon coins",
+                  "download amazon appstore",
+                  "amazon apps",
+                  "your apps and subscriptions"
+                ]
+              }
+            ]
+          }
+        ],
+        "seeAll": false
+      },
+      {
+        "heading": "shop by department",
+        "links": [
+          {
+            "name": "elctronics",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "electronics",
+                "links": [
+                  "accessories & supplies",
+                  "camera & photo",
+                  "car & vehicle elctronics",
+                  "cell phones & accessories",
+                  "computers & accessories",
+                  "GPS & navigation",
+                  "headphones",
+                  "home audio",
+                  "office elctronics",
+                  "portable audio & video",
+                  "security & surveillance",
+                  "service plans",
+                  "televesion & video",
+                  "video games consoles & accessories",
+                  "video projectors",
+                  "wearable technology",
+                  "eBook readers & accessories"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "computers",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "computers",
+                "links": [
+                  "computer accessories & peripherals",
+                  "computer components",
+                  "computers & tablets",
+                  "data storage",
+                  "external components",
+                  "laptop accessories",
+                  "monitors",
+                  "networking products",
+                  "power Strips & Surge protectors",
+                  "printers",
+                  "scanners",
+                  "servers",
+                  "tablet accessories"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "smart home",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "smart home",
+                "links": [
+                  "amazon smart home",
+                  "smart home lighting",
+                  "smart locks and entry",
+                  "security cameras and systems",
+                  "plugs and outlets",
+                  "new smart devices",
+                  "heating and cooling",
+                  "detectors and sensors",
+                  "home entertainment",
+                  "pet",
+                  "voice assistants and hubs",
+                  "kitchen",
+                  "vacuums and mops"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "arts & crafts",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "arts & crafts",
+                "links": [
+                  "painting, drawing & art supplies",
+                  "beading & jewelry making",
+                  "crafting",
+                  "fabric",
+                  "fabric decorating",
+                  "knitting & crochet",
+                  "needlework",
+                  "organization, storage & transport",
+                  "printmaking",
+                  "scrapbooking & stamping",
+                  "sewing",
+                  "party decorations & supplies",
+                  "gift wrapping supplies"
+                ]
+              }
+            ]
+          }
+        ],
+        "seeAll": true
+      },
+      {
+        "heading": "programs & features",
+        "links": [
+          {
+            "name": "gift cards",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "give a gift card",
+                "links": [
+                  "all gift cards",
+                  "eGift cards",
+                  "gift cards by mail",
+                  "specialty gift cards",
+                  "amazon cash",
+                  "for businesses"
+                ]
+              },
+              {
+                "heading": "manage your gift card",
+                "links": [
+                  "redeem a gift card",
+                  "view your balance",
+                  "reload Your balance"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "shop by interest",
+            "openInSamePage": false
+          },
+          {
+            "name": "amazon live",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "amazon live",
+                "links": ["live", "recently live"]
+              }
+            ]
+          },
+          {
+            "name": "international shopping",
+            "openInSamePage": true,
+            "subMenus": [
+              {
+                "heading": "international shopping",
+                "links": ["where we ship", "visit amazon global"]
+              }
+            ]
+          }
+        ],
+        "seeAll": true
+      },
+      {
+        "heading": "help & settings",
+        "links": [
+          {
+            "name": "your account",
+            "openInSamePage": false
+          },
+          {
+            "icon": "icon-globe",
+            "name": "english",
+            "openInSamePage": false
+          },
+          {
+            "icon": "",
+            "name": "united states",
+            "openInSamePage": false
+          },
+          {
+            "name": "customer service",
+            "openInSamePage": false
+          },
+          {
+            "name": "sign in",
+            "openInSamePage": false
+          }
+        ],
+        "seeAll": false
+      }
+    ]
+  }
+]
