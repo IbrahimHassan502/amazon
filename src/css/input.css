@@ -23,3 +23,7 @@
 .owl-carousel .owl-nav button.owl-prev {
   @apply left-0;
 }
+
+.hero-carousel .item {
+  height: calc(100vh - 92px);
+}

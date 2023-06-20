@@ -1130,6 +1130,10 @@ h1,
   left: 0px;
 }
 
+.hero-carousel .item {
+  height: calc(100vh - 92px);
+}
+
 .before\:absolute::before {
   content: var(--tw-content);
   position: absolute;
