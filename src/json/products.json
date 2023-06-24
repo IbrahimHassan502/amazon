@@ -1,0 +1,862 @@
+[
+  {
+    "name": "all products",
+    "arr": [
+      {
+        "name": [
+          "JSAUX USB C to USB Adapter [2 Pack], USB Type C Male to USB 3.0 Female OTG Cable",
+          "Thunderbolt3 to USB Adapter Compatible with MacBook Pro/Air 2019 2018 2017, Galaxy S20 S20+ Ultra Note 10 S9 S8-Black"
+        ],
+        "image": "../../public/images/popular-items1-medium.jpg",
+        "preview-images": [
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon1-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed1-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon2-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed2-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon3-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed3-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon4-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed4-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon5-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed5-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon6-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed6-black.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon7-black.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed7-black.jpg"
+          }
+        ],
+        "category": "electronics",
+        "tags": ["popular items this season"],
+        "manifacturer": {
+          "name": "jsaux",
+          "link": "https://jsaux.com"
+        },
+        "rating": {
+          "rate": "4.7",
+          "stats": {
+            "5 star": "80",
+            "4 star": "13",
+            "3 star": "4",
+            "2 star": "1",
+            "1 star": "2"
+          },
+          "count": "19734"
+        },
+        "answeredQuestions": {
+          "count": "223"
+        },
+        "discount": "0.15",
+        "price": "10.99",
+        "specs": [
+          {
+            "name": "size",
+            "value": "2 pack"
+          },
+          {
+            "name": "color",
+            "value": "black"
+          },
+          {
+            "name": "filter",
+            "type": "image - text",
+            "image": "",
+            "text": ""
+          },
+          {
+            "name": "Compatible Devices",
+            "value": ["Apple 2015 New MacBook 12 Inch", "Apple New Macbook 12/13/15 Pro", "Samsung Galaxy", "Galaxy Tab", "Galaxy Book", "Huawei", "Google Pixel", "LG", "HTC", "moto", "other usb-c devices"]
+          },
+          {
+            "name": "connector type",
+            "value": "usb c to usb 3.0"
+          },
+          {
+            "name": "Connector Gender",
+            "value": "Male-to-Female"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Item Dimensions LxWxH",
+            "value": "5.9 x 0.15 x 0.15 inches"
+          },
+          {
+            "name": "about this item",
+            "value": [
+              {
+                "point": "usb on-the-go",
+                "value": " Plug in and use computer peripherals, such as flash drive, keyboard, hub, mouse and more, makes your USB-C devices compatible with USB drives and any other USB devices that support USB On-The-Go"
+              },
+              {
+                "point": "USB 3.0 Super Speed Transfer",
+                "value": "Full USB 3.0 super speed data transfer up to 5Gbps, 10x faster than USB 2.0. Transfer files, HD movies and songs to your USB-C devices in seconds"
+              },
+              {
+                "point": "Nylon Tangle-free Design",
+                "value": "Tangle-free Nylon Braided Design, this USB 3.0 Cord is far more dependable than others in its price range. Premium nylon braided cable adds additional durability and tangle free."
+              },
+              {
+                "point": "Durable Aluminum Body",
+                "value": "Made out of durable aluminum alloy, innovative engineering ensures durability and a long life span."
+              },
+              {
+                "point": "What you get",
+                "value": "We provide this USB C Adapter with 18-Month Warranty and 24/7 customer service, if you have any questions,we will resolve your issue within 24 hours. Compatible with all USB C devices, Samsung Galaxy Note8 S9/S9Plus S8/S8 Plus, Apple New Macbook Pro, LG G6 G5 V20 and More."
+              }
+            ]
+          },
+          {
+            "name": "note",
+            "value": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing."
+          }
+        ]
+      },
+      {
+        "name": [
+          "JSAUX USB C to USB Adapter [2 Pack], USB Type C Male to USB 3.0 Female OTG Cable",
+          "-Blue"
+        ],
+        "image": "",
+        "preview-images": [
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon1-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed1-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon2-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed2-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon3-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed3-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon4-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed4-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon5-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed5-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon6-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed6-blue.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon7-blue.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed7-blue.jpg"
+          }
+        ],
+        "category": "electronics",
+        "tags": [],
+        "manifacturer": {
+          "name": "jsaux",
+          "link": "https://jsaux.com"
+        },
+        "rating": {
+          "rate": "4.7",
+          "stats": {
+            "5 star": "80",
+            "4 star": "13",
+            "3 star": "4",
+            "2 star": "1",
+            "1 star": "2"
+          },
+          "count": "19741"
+        },
+        "answeredQuestions": {
+          "count": "223"
+        },
+        "discount": "0.15",
+        "price": "10.99",
+        "specs": [
+          {
+            "name": "size",
+            "value": "2 pack"
+          },
+          {
+            "name": "color",
+            "value": "blue"
+          },
+          {
+            "name": "filter",
+            "type": "image - text",
+            "image": "",
+            "text": ""
+          },
+          {
+            "name": "Compatible Devices",
+            "value": ["Apple 2015 New MacBook 12 Inch", "Apple New Macbook 12/13/15 Pro", "Samsung Galaxy", "Galaxy Tab", "Galaxy Book", "Huawei", "Google Pixel", "LG", "HTC", "moto", "other usb-c devices"]
+          },
+          {
+            "name": "connector type",
+            "value": "usb c to usb 3.0"
+          },
+          {
+            "name": "Connector Gender",
+            "value": "Male-to-Female"
+          },
+          {
+            "name": "Color",
+            "value": "blue"
+          },
+          {
+            "name": "Item Dimensions LxWxH",
+            "value": "5.9 x 0.15 x 0.15 inches"
+          },
+          {
+            "name": "about this item",
+            "value": [
+              {
+                "point": "usb on-the-go",
+                "value": " Plug in and use computer peripherals, such as flash drive, keyboard, hub, mouse and more, makes your USB-C devices compatible with USB drives and any other USB devices that support USB On-The-Go"
+              },
+              {
+                "point": "USB 3.0 Super Speed Transfer",
+                "value": "Full USB 3.0 super speed data transfer up to 5Gbps, 10x faster than USB 2.0. Transfer files, HD movies and songs to your USB-C devices in seconds"
+              },
+              {
+                "point": "Nylon Tangle-free Design",
+                "value": "Tangle-free Nylon Braided Design, this USB 3.0 Cord is far more dependable than others in its price range. Premium nylon braided cable adds additional durability and tangle free."
+              },
+              {
+                "point": "Durable Aluminum Body",
+                "value": "Made out of durable aluminum alloy, innovative engineering ensures durability and a long life span."
+              },
+              {
+                "point": "What you get",
+                "value": "We provide this USB C Adapter with 18-Month Warranty and 24/7 customer service, if you have any questions,we will resolve your issue within 24 hours. Compatible with all USB C devices, Samsung Galaxy Note8 S9/S9Plus S8/S8 Plus, Apple New Macbook Pro, LG G6 G5 V20 and More."
+              }
+            ]
+          },
+          {
+            "name": "note",
+            "value": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing."
+          }
+        ]
+      },
+      {
+        "name": [
+          "JSAUX USB C to USB Adapter [2 Pack], USB Type C Male to USB 3.0 Female OTG Cable",
+          "Thunderbolt3 to USB Adapter Compatible with MacBook Pro/Air 2019 2018 2017, Samsung Galaxy S20 S20+ Ultra Note 10 S9 S8"
+        ],
+        "image": "",
+        "preview-images": [
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon1-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed1-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon2-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed2-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon3-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed3-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon4-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed4-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon5-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed5-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon6-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed6-grey.jpg"
+          },
+          {
+            "icon": "../../public/images/usbc-to-usb3-icon7-grey.jpg",
+            "detailed":"../../public/images/usbc-to-usb3-detailed7-grey.jpg"
+          }
+        ],
+        "category": "electronics",
+        "tags": [],
+        "manifacturer": {
+          "name": "jsaux",
+          "link": "https://jsaux.com"
+        },
+        "rating": {
+          "rate": "4.7",
+          "stats": {
+            "5 star": "80",
+            "4 star": "13",
+            "3 star": "4",
+            "2 star": "1",
+            "1 star": "2"
+          },
+          "count": "19742"
+        },
+        "answeredQuestions": {
+          "count": "223"
+        },
+        "discount": "0.18",
+        "price": "8.99",
+        "specs": [
+          {
+            "name": "size",
+            "value": "2 pack"
+          },
+          {
+            "name": "color",
+            "value": "grey"
+          },
+          {
+            "name": "filter",
+            "type": "image - text",
+            "image": "",
+            "text": ""
+          },
+          {
+            "name": "Compatible Devices",
+            "value": ["Apple 2015 New MacBook 12 Inch", "Apple New Macbook 12/13/15 Pro", "Samsung Galaxy", "Galaxy Tab", "Galaxy Book", "Huawei", "Google Pixel", "LG", "HTC", "moto", "other usb-c devices"]
+          },
+          {
+            "name": "connector type",
+            "value": "usb c to usb 3.0"
+          },
+          {
+            "name": "Connector Gender",
+            "value": "Male-to-Female"
+          },
+          {
+            "name": "Color",
+            "value": "grey"
+          },
+          {
+            "name": "Item Dimensions LxWxH",
+            "value": "5.9 x 0.15 x 0.15 inches"
+          },
+          {
+            "name": "about this item",
+            "value": [
+              {
+                "point": "usb on-the-go",
+                "value": " Plug in and use computer peripherals, such as flash drive, keyboard, hub, mouse and more, makes your USB-C devices compatible with USB drives and any other USB devices that support USB On-The-Go"
+              },
+              {
+                "point": "USB 3.0 Super Speed Transfer",
+                "value": "Full USB 3.0 super speed data transfer up to 5Gbps, 10x faster than USB 2.0. Transfer files, HD movies and songs to your USB-C devices in seconds"
+              },
+              {
+                "point": "Nylon Tangle-free Design",
+                "value": "Tangle-free Nylon Braided Design, this USB 3.0 Cord is far more dependable than others in its price range. Premium nylon braided cable adds additional durability and tangle free."
+              },
+              {
+                "point": "Durable Aluminum Body",
+                "value": "Made out of durable aluminum alloy, innovative engineering ensures durability and a long life span."
+              },
+              {
+                "point": "What you get",
+                "value": "We provide this USB C Adapter with 18-Month Warranty and 24/7 customer service, if you have any questions,we will resolve your issue within 24 hours. Compatible with all USB C devices, Samsung Galaxy Note8 S9/S9Plus S8/S8 Plus, Apple New Macbook Pro, LG G6 G5 V20 and More."
+              }
+            ]
+          },
+          {
+            "name": "note",
+            "value": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing."
+          }
+        ]
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items2-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items3-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items2-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items5-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items6-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items3-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items2-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items4-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items6-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-items5-medium.jpg",
+        "category": "",
+        "tags": ["most popular items"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased1-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased2-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased3-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased4-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased5-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased6-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased1-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased4-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased2-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased6-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-repurchased3-medium.jpg",
+        "category": "home & kitchen",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international1-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international2-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international3-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international4-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international5-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international6-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international2-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international4-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international1-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/international6-medium.jpg",
+        "category": "",
+        "tags": ["new international customers purchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under1-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "19.72"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under2-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "19.15"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "24.43"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "23.69"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "7.29"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under1-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "19.72"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under2-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "19.15"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "24.43"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "23.69"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/deals-under3-25-medium.jpg",
+        "category": "",
+        "tags": ["deal"],
+        "price": "7.29"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor1-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "24.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor2-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "23.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor3-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "8.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor4-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "11.39"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor5-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "14.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor1-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "24.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor2-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "23.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor3-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "8.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor4-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "11.39"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/home-decor5-medium.jpg",
+        "category": "",
+        "tags": ["deal", "home decor"],
+        "price": "14.99"
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts1-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts2-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts3-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts4-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts5-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/popular-gifts6-medium.jpg",
+        "category": "baby",
+        "tags": ["popular gifts"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty1.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty2.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty3.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty4.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty5.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty6.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty1.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty2.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty3.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty4.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty5.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      },
+      {
+        "name": [],
+        "image": "../../public/images/frequently-repurchased-in-beauty6.jpg",
+        "category": "beauty & personal care",
+        "tags": ["frequently repurchased"],
+        "price": ""
+      }      
+    ]
+  }
+]

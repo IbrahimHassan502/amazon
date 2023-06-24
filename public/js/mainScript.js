@@ -1,5 +1,5 @@
 "use strict";
-let mainData = fetch("../../src/js/data.json").then(
+let mainData = fetch("../../src/json/data.json").then(
   (data) => (data = data.json())
 );
 //================== helping functions ==================
@@ -53,8 +53,8 @@ mainAsideContainer.addEventListener("click", (e) => {
     }, 250);
   }
 });
-//================== showing sub menus ==================
 
+//================== showing sub menus ==================
 asideListContainer.addEventListener("click", async function (e) {
   // =-=-=-=-=-=-=-=-=-=-=-=-=-=-=- detecting span which contains the button text
   let clickedButton = "";
@@ -135,17 +135,17 @@ mainMenuButton.addEventListener("click", () => {
 });
 
 // ================= initiating owl carousel for hero section
-$(document).ready(function(){
+$(document).ready(function () {
   $(".hero-carousel").owlCarousel({
     loop: true,
-  margin: 20,
-  nav: true,
-  items: 1,
-  center: false,
-  dots: false,
+    margin: 20,
+    nav: true,
+    items: 1,
+    center: false,
+    dots: false,
     navText: [
-            '<i class="icon-left-open-big"></i>',
-            '<i class="icon-right-open-big"></i>',
-          ],
+      '<i class="icon-left-open-big"></i>',
+      '<i class="icon-right-open-big"></i>',
+    ],
   });
 });
