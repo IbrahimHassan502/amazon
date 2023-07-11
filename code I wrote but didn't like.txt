@@ -1,0 +1,1 @@
+- the images of the home page cards weren't visually centered so I added translateX(-15%) with max-width: none; instead of max-width:100%;

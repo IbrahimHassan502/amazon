@@ -341,21 +341,25 @@
         }
       ]
     },
-    //- hero links & images
+    //- hero slider
     {
       name: 'hero',
       links: [
         {
-          href: 'shipping',
-          bgImgPath: './public/images/hero-shipping.webp'
+          srchQuery: 'kitchen',
+          bgImgPath: './public/images/hero-kitchen-favorites.jpg'
         },
         {
-          href: 'Beauty-and-Personal-Care',
-          bgImgPath: './public/images/hero-beauty.webp'
+          category: 'books',
+          bgImgPath: './public/images/hero-shop-books.jpg'
         },
         {
-          href: 'Computers',
-          bgImgPath: './public/images/hero-computers.webp'
+          category: 'video games',
+          bgImgPath: './public/images/hero-gaming-essentials.jpg'
+        },
+        {
+          srchQuery: 'toys',
+          bgImgPath: './public/images/hero-new-arrivals-in-toys.jpg'
         }
       ]
     },
@@ -365,33 +369,37 @@
       cards: [
         {
           type: 'multi',
-          name: 'shop by category',
+          name: 'gaming accessories',
           subCards: [
             {
-              srchQuery: "computers",
+              srchQuery: "gaming headsets",
               imgSrc:
-                "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/computer120x._SY85_CB468850970_.jpg",
-              name: "computers & accessories"
+                "./public/images/gaming-headset-card.jpg",
+              name: "headsets"
             },
             {
-              srchQuery: "video-games",
+              srchQuery: "gaming keyboard",
               imgSrc:
-                "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/August/DashboardCard/PS4_120X._SY85_CB438749318_.jpg",
-              name: "video games"
+                "./public/images/gaming-keyboards-card.jpg",
+              name: "keyboards"
             },
             {
-              srchQuery: "baby",
+              srchQuery: "gaming mouse",
               imgSrc:
-                "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Baby120X._SY85_CB468850882_.jpg",
-              name: "baby"
+                "./public/images/gaming-mice-card.jpg",
+              name: "computer mice"
             },
             {
-              srchQuery: "toys",
+              srchQuery: "gaming chairs",
               imgSrc:
-                "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/February/Dashboard/Toys120X._SY85_CB468851693_.jpg",
-              name: "toys & games"
+                "./public/images/gaming-chairs-card.jpg",
+              name: "chairs"
             },
-          ]
+          ],
+          bottomLink: {
+            text: 'see more',
+            href: ''
+          }
         },
         {
           type: 'multi',
@@ -417,7 +425,11 @@
               imgSrc: './public/images/fashion-card-shoes.webp',
               name: 'shoes under $50'
             }
-          ]
+          ],
+          bottomLink: {
+            text: 'see all deals',
+            href: ''
+          }
         },
         {
           type:'multi',
@@ -430,20 +442,24 @@
             },
             {
               srchQuery:'home',
-              imgSrc:'./public/images/home.jpg',
+              imgSrc:'./public/images/refresh-card-home.jpg',
               name: 'home'
             },
             {
               srchQuery:'kitchen',
-              imgSrc:'./public/images/kitchen.jpg',
+              imgSrc:'./public/images/refresh-card-kitchen.jpg',
               name: 'kitchen'
             },
             {
               srchQuery:'health and beauty',
-              imgSrc:'./public/images/beauty.jpg',
+              imgSrc:'./public/images/refresh-card-beauty.jpg',
               name: 'health and beauty'
             }
-          ]
+          ],
+          bottomLink: {
+            text: 'see more',
+            href: ''
+          }
         },
         {
           type: "single",
@@ -451,7 +467,11 @@
           category: "computers",
           name: "computers & accessories",
           imgsrc:
-            "./public/images/computers-card.jpg"
+            "./public/images/computers-card.jpg",
+          bottomLink: {
+            text: 'shop now',
+            href: ''
+          }
         },
         {
           type: "single",
@@ -459,7 +479,11 @@
           category: "computers",
           name: "computers & accessories",
           imgsrc:
-            "./public/images/computers-card.jpg"
+            "./public/images/computers-card.jpg",
+          bottomLink: {
+            text: 'shop now',
+            href: ''
+          }
         },
         {
           type: "single",
@@ -467,7 +491,11 @@
           category: "electronics",
           name: "electronics",
           imgsrc:
-            "./public/images/electronics.jpg"
+            "./public/images/electronics.jpg",
+          bottomLink: {
+            text: 'see more',
+            href: ''
+            }
           },
           {
             type: "single",
@@ -475,7 +503,11 @@
             category: "presonal care products",
             name: "health & personal care",
             imgsrc:
-              "./public/images/personal-care-card.jpg"
+              "./public/images/personal-care-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -483,7 +515,11 @@
             category: "beauty & personal care",
             name: "beauty picks",
             imgsrc:
-              "./public/images/beauty-card.jpg"
+              "./public/images/beauty-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -491,15 +527,23 @@
             category:"",
             name: "new arrivals in toys",
             imgsrc:
-              "./public/images/new-arrival-toys-card.jpg"
+              "./public/images/new-arrival-toys-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
             srchQuery: "work from home fitness",
             category:"",
-            name: "new arrivals in toys",
+            name: "for your fitness needs",
             imgsrc:
-              "./public/images/fitness-need-card.jpg"
+              "./public/images/fitness-need-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -507,7 +551,11 @@
             category:"home & kitchen",
             name: "home refresh ideas",
             imgsrc:
-              "./public/images/home-refresh-card.jpg"
+              "./public/images/home-refresh-card.jpg",
+            bottomLink: {
+              text: 'shop kitchen upgrades',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -515,7 +563,11 @@
             category:"computers & laptops",
             name: "shop laptops & tablest",
             imgsrc:
-              "./public/images/laptops-tablets-card.jpg"
+              "./public/images/laptops-tablets-card.jpg",
+            bottomLink: {
+              text: 'see more',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -523,7 +575,11 @@
             category:"",
             name: "shop activity trackers and smartwatches",
             imgsrc:
-              "./public/images/activity-trackers-smart-watches.jpg"
+              "./public/images/activity-trackers-smart-watches.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -531,7 +587,11 @@
             category:"",
             name: "kindle E readers",
             imgsrc:
-              "./public/images/kindle-reader-card.jpg"
+              "./public/images/kindle-reader-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -539,7 +599,11 @@
             category:"",
             name: "create with strip lights",
             imgsrc:
-              "./public/images/strip-lights-card.jpg"
+              "./public/images/strip-lights-card.jpg",
+            bottomLink: {
+              text: 'shop now',
+              href: ''
+            }
           },
           {
             type: "single",
@@ -558,7 +622,37 @@
             name: "shop pet supplies",
             imgsrc:
               "./public/images/pet-supplies-card.jpg"
-          }
+          },
+          {
+          type: 'multi',
+          name: 'gaming merchandise',
+          subCards: [
+            {
+              srchQuery: "gaming apparel",
+              imgSrc:
+                "./public/images/gaming-merch-apparel-card.jpg",
+              name: "apparel"
+            },
+            {
+              srchQuery: "gaming hats",
+              imgSrc:
+                "./public/images/gaming-merch-hats-card.jpg",
+              name: "hats"
+            },
+            {
+              srchQuery: "gaming figures",
+              imgSrc:
+                "./public/images/gaming-merch-figs-card.jpg",
+              name: "figures"
+            },
+            {
+              srchQuery: "gaming mugs",
+              imgSrc:
+                "./public/images/gaming-merch-mugs-card.jpg",
+              name: "mugs"
+            },
+          ]
+        }
       ]
     }
   ]
