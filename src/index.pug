@@ -142,26 +142,16 @@ html(lang="en")
             .sub-menu-list-container
 
     //- ================== hero section =============
-    div.hero-carousel.owl-carousel.relative(class='mb-[-50vh]')
-      - const heroLinks = data.find((el) => el.name === 'hero').links
-      each link in heroLinks
-        .item.w-screen
-          a.block.h-full(href=`${link.href}.html`)
-            img.object-cover.h-full(class='hero-img', src=`${link.bgImgPath}`, alt="")
+    section
+      .hero-carousel.owl-carousel.relative(class='mb-[-50vh]')
+        - const heroLinks = data.find((el) => el.name === 'hero').links
+        each link in heroLinks
+          .item.w-screen
+            a.block.h-full(href=`${link.href}.html`)
+              img.object-cover.h-full(class='hero-img', src=`${link.bgImgPath}`, alt="")
     //- ================== cards and sliders =============
-    .container.grid.gap-3.relative.z-10(class='xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-1')
-      - const homePageCards = data.find((el) => el.name === 'home page cards').cards
-      -const i = 0
-      each card in homePageCards
-        if(card.type === 'multi')
-          div.bg-white.pt-3.pb-5.px-6
-            h2.font-bold(class='mb-2.5')= card.name
-            .grid.grid-cols-2.gap-x-6.gap-y-10
-              each subCard in card.subCards
-                a.block.overflow-hidden(href= subCard.srchQuery, class='last:mb-6')
-                  img.max-w-none(src= subCard.imgSrc, class='-translate-x-[15%]')
-                  p.text-xs.capitalize= subCard.name
-            a.block.text-xs.text-blue-700 shop now
+    section.cards-and-sliders
+
     script(src="public/js/jquery-3.7.0.min.js")
     script(src="public/js/owl.carousel.min.js")
     script(src="public/js/mainScript.js", type='module')

@@ -27,3 +27,6 @@
 .hero-carousel .item {
   height: calc(100vh - 92px);
 }
+.home-page-carousel.owl-carousel .owl-stage {
+  @apply flex items-center;
+}

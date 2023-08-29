@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./public/js/*.{html,js}", "./index.html"],
+  content: ["./public/**/*.{html,js}", "./index.html"],
   theme: {
     extend: {
       fontFamily: {
@@ -23,6 +23,9 @@ module.exports = {
       fontSize: {
         "2xs": "0.7rem",
         icon: "0.6rem",
+      },
+      gridTemplateColumns: {
+        responsive: "repeat(auto-fit, minmax(300px, 1fr))",
       },
     },
     container: {
