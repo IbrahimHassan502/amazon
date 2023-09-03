@@ -139,14 +139,13 @@ $(document).ready(function () {
 
 // ================= laying homepage cards and sliders
 // =-=-=-=- function for adding cards
-function deployCard(card, index, parent) {
+function deployCard(card, parent) {
   const cardElement = document.createElement("div");
   multiClasses(
     "add",
-    `bg-red p-5 overflow-hidden order-${index}`,
+    `bg-white p-5 overflow-hidden basis-1/3 grow`,
     cardElement
   );
-
   // =-=-=-=- card heading
   const heading = document.createElement("h2");
   multiClasses("add", "font-bold mb-2.5", heading);
@@ -234,29 +233,33 @@ function deploySlider(slider, parent) {
   ).cards;
 
   // creating container and adding tailwind styling to it
+  // grid grid-cols-responsive
   const container = document.createElement("div");
   multiClasses(
     "add",
-    "grid grid-cols-responsive gap-x-3 gap-y-5 relative z-10",
+    "grid grid-cols-responsive gap-x-10 gap-y-5 relative z-10",
     container
   );
-  cards.forEach((card, index) => {
-    deployCard(card, index, container);
-  });
+  // cards.forEach((card) => {
+  //   deployCard(card, container);
+  // });
+  // sliders.forEach((slider) => {
+  //   deploySlider(slider, container);
+  // });
   // adding the cards before the sliders and cards row mix
-  // let i = 0;
-  // for (; i < 9; i++) {
-  //   deployCard(cards[i], container);
-  // }
-  // // adding the sliders and cards row mix
-  // for (let j = 0; j < sliders.length; j++) {
-  //   deploySlider(sliders[j], container);
-  //   if (j % 2 === 0) {
-  //     for (let m = 0; m < 4 && i < cards.length; m++) {
-  //       deployCard(cards[i++], container);
-  //     }
-  //   }
-  // }
+  let i = 0;
+  for (; i < 9; i++) {
+    deployCard(cards[i], container);
+  }
+  // adding the sliders and cards row mix
+  for (let j = 0; j < sliders.length; j++) {
+    deploySlider(sliders[j], container);
+    if (j % 2 === 0) {
+      for (let m = 0; m < 4 && i < cards.length; m++) {
+        deployCard(cards[i++], container);
+      }
+    }
+  }
 
   cardsAndSliders.appendChild(container);
 
